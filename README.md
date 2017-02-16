@@ -3,9 +3,7 @@
 
 These files are part of my [master thesis (2014)](http://folk.ntnu.no/tomgra/Diplomer/Kufieta.pdf) which I used to model and simulate the UR5. It includes a simple version of force estimation based on the motor current measurements.
 
-The simulations were done in Matlab & Simulink. The files are split into three models: Model A, B, C. 
-
-For best performance you should use Model C that is based on my method to reconstruct the mass center points of the links. Here's a preview of how I've created Model C:
+The simulations were done in Matlab & Simulink. Model C is based on my method to reconstruct the mass center points of the links. Here's a preview of how I've created Model C:
 
 <img src="https://github.com/kkufieta/force_estimate_ur5/blob/master/Modeling_UR5.png" width="600"/>
 
